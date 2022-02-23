@@ -1,8 +1,8 @@
 # Trybe Project React Testing Library 02/10/2021
 <br>
 <div style="display: inline_block">
-  <img src="https://img.shields.io/badge/react-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&logoWidth=20"/>
-  <img src="https://img.shields.io/badge/rtl-0D1117?style=for-the-badge&logo=testinglibrary&logoColor=E33332&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=fff&logoWidth=20"/>
+  <img src="https://img.shields.io/badge/rtl-E33332?style=for-the-badge&logo=testinglibrary&logoColor=fff&logoWidth=20"/>
 </div>
 <br>
 
